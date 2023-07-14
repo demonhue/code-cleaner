@@ -1,0 +1,5 @@
+{
+  "name": "Route",
+  "private": true,
+  "main": "./calculator"
+}

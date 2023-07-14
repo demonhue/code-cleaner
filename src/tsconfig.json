@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "strict": false,
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  }
+}
